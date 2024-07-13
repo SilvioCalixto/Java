@@ -10,5 +10,3 @@ public class VerificadorParIdade {
     System.out.println("O numero é: " + resultado); // Sem operador tenário
   }
 }
-
-public class Verificador
